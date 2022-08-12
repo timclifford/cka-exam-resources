@@ -13,3 +13,7 @@ https://github.com/bmuschko/cka-crash-course
 
 
 ## Blog posts
+
+## Videos
+
+[Rawcode Academy CKA exam scenario](https://www.youtube.com/watch?v=KfrZd9YCftU)
